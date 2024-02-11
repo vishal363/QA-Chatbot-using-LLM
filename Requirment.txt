@@ -1,0 +1,17 @@
+streamlit
+PyPDF2
+google.generativeai
+python-dotenv
+pdf2image
+openai
+langchain
+huggingface_hub
+datasets
+tiktoken
+sentence-transformers
+uvicorn
+ctransformers
+python-box
+chromadb
+faiss-cpu
+langchain_google_genai
